@@ -12,16 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kali-prasad392&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali-prasad392&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🤖 AI Developer Animation
+## AI Developer
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kali-prasad392&theme=default&no-frame=true&no-bg=true&margin-w=4)
+##
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kali-prasad392&limit=5&theme=dark&combine_all_yearly_contributions=true)
